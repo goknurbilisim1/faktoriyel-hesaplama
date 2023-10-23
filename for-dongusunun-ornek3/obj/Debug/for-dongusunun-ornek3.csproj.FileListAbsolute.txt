@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\bin\Debug\for-dongusunun-ornek3.exe.config
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\bin\Debug\for-dongusunun-ornek3.exe
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\bin\Debug\for-dongusunun-ornek3.pdb
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for-dongusunun-ornek3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for-dongusunun-ornek3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for_dongusunun_ornek3.Form1.resources
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for_dongusunun_ornek3.Properties.Resources.resources
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for-dongusunun-ornek3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for-dongusunun-ornek3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for-dongusunun-ornek3.exe
+C:\Users\User\source\repos\for-dongusunun-ornek3\for-dongusunun-ornek3\obj\Debug\for-dongusunun-ornek3.pdb
